@@ -21,3 +21,6 @@
 .filters button:hover {
     opacity: 90%;
 }
+h6 {
+    display: none;
+}
